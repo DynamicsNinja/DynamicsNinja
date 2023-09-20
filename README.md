@@ -19,6 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Using HTTP Status Codes to Improve Your Custom APIs](https://dynamicsninja.blog/2023/03/09/using-http-status-codes-to-improve-your-custom-apis/)
+- [Virtual Tables – Custom Ownership](https://dynamicsninja.blog/2022/10/03/virtual-tables-custom-ownership/)
+- [Enable in-app notifications easily](https://dynamicsninja.blog/2021/09/09/enable-in-app-notifications-easily/)
+- [Live Dataverse data in email](https://dynamicsninja.blog/2021/05/18/live-dataverse-data-in-email/)
+- [Offloading Dataverse Attachments To DMS](https://dynamicsninja.blog/2021/04/06/offloading-dataverse-attachments-to-dms/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
