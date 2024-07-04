@@ -19,11 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Flow-tastrophe? Conquer Flows with a smile using Flow Execution History](https://dynamicsninja.blog/2023/10/02/flow-tastrophe-conquer-flows-with-a-smile-using-flow-execution-history/)
-- [Using HTTP Status Codes to Improve Your Custom APIs](https://dynamicsninja.blog/2023/03/09/using-http-status-codes-to-improve-your-custom-apis/)
-- [Virtual Tables – Custom Ownership](https://dynamicsninja.blog/2022/10/03/virtual-tables-custom-ownership/)
-- [Enable in-app notifications easily](https://dynamicsninja.blog/2021/09/09/enable-in-app-notifications-easily/)
-- [Live Dataverse data in email](https://dynamicsninja.blog/2021/05/18/live-dataverse-data-in-email/)
+- [Flow-tastrophe? Conquer Flows with a smile using Flow Execution History](https://www.dynamicsninja.blog/2023/10/02/flow-tastrophe-conquer-flows-with-a-smile-using-flow-execution-history)
+- [Using HTTP Status Codes to Improve Your Custom APIs](https://www.dynamicsninja.blog/2023/03/09/using-http-status-codes-to-improve-your-custom-apis)
+- [Virtual Tables - Custom Ownership](https://www.dynamicsninja.blog/2022/10/03/virtual-tables-custom-ownership)
+- [Enable in-app notifications easily](https://www.dynamicsninja.blog/2021/09/09/enable-in-app-notifications-easily)
+- [Live Dataverse data in email](https://www.dynamicsninja.blog/2021/05/17/live-dataverse-data-in-email)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
