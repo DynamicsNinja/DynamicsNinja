@@ -1,23 +1,52 @@
-<h1 align="center">Hi 👋, I'm Ivan</h1>
-<h3 align="center">Dynamics 365/Power Platform Developer | 6x Microsoft Business Applications MVP</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:742774,100:0e75b6&height=190&section=header&text=Ivan%20Ficko&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Dynamics%20365%20%C2%B7%20Power%20Platform%20%C2%B7%20Garmin%20tooling&descAlignY=58&descSize=18&animation=fadeIn" alt="Ivan Ficko" width="100%" />
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dynamicsninja&label=Profile%20views&color=0e75b6&style=flat" alt="dynamicsninja" /> </p>
+<p align="center">
+  <a href="https://github.com/DynamicsNinja">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=0E75B6&center=true&vCenter=true&width=620&lines=Ex+6%C3%97+Microsoft+Business+Applications+MVP;Dynamics+365+CE+%26+Power+Platform+developer;Building+TypeScript+tools+for+Garmin+Connect;XrmToolBox+%26+PCF+tinkerer;Bedroom+DJ+%C2%B7+noob+wakeboarder" alt="Typing intro" />
+  </a>
+</p>
 
-<p align="left"> <a href="https://twitter.com/dynamicsninja" target="blank"><img src="https://img.shields.io/twitter/follow/dynamicsninja?logo=twitter&style=for-the-badge" alt="dynamicsninja" /></a> </p>
+<p align="center">
+  <a href="https://dynamicsninja.blog"><img src="https://img.shields.io/badge/Blog-dynamicsninja.blog-742774?style=for-the-badge&logo=rss&logoColor=white" alt="Blog" /></a>
+  <a href="https://linkedin.com/in/ivanficko"><img src="https://img.shields.io/badge/LinkedIn-ivanficko-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/dynamicsninja"><img src="https://img.shields.io/badge/X-dynamicsninja-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://www.buymeacoffee.com/dynamicsninja"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy me a coffee" /></a>
+</p>
 
-- 🔭 I’m currently working on [Flow Execution History](https://github.com/DynamicsNinja/FlowExecutionHistory)
+---
 
-- 🌱 I’m currently learning **Next.js**
+### About
 
-- 📝 I regularly write articles on [https://dynamicsninja.blog](https://dynamicsninja.blog)
+Developer from Zagreb, Croatia, building on Dynamics 365 and the Power Platform for well over a decade, and a former six-time Microsoft Business Applications MVP. These days I split my time between Dataverse tooling and open-source TypeScript libraries for Garmin Connect, mostly so my own triathlon training runs on code I wrote.
 
-- 💬 Ask me about **Dynamics 365 CE, Power Apps Component Framework,XrmToolBox**
+### Garmin Connect
 
-- 📫 How to reach me **ivan.ficko@outlook.com**
+| Project | What it is |
+| --- | --- |
+| [**garminconnect-js**](https://github.com/DynamicsNinja/garminconnect-js) | Unofficial TypeScript client for Garmin Connect, for Node and Next.js |
+| [**garminconnect-site**](https://github.com/DynamicsNinja/garminconnect-site) | Docs, method reference, live demo and the Garmin connector for Claude |
+| [**connect-personal-api-js**](https://github.com/DynamicsNinja/connect-personal-api-js) | Dependency-free Node.js client and CLI for the Garmin Connect Personal API |
+| [**garminconnect-nextjs-starter**](https://github.com/DynamicsNinja/garminconnect-nextjs-starter) | Next.js starter: sign in to Garmin Connect and chart sleep & HRV |
 
-- ⚡ Fun fact **Bedroom DJ & noob wakeboarder**
+### Power Platform
 
-### Blogs posts
+| Project | What it is |
+| --- | --- |
+| [**power-role-extension**](https://github.com/DynamicsNinja/power-role-extension) | Power Roles, your security copilot: see and fix Dataverse security roles in the browser |
+| [**FlowExecutionHistory**](https://github.com/DynamicsNinja/FlowExecutionHistory) | XrmToolBox tool to browse and troubleshoot Power Automate flow runs |
+| [**DataverseStoragePredictor**](https://github.com/DynamicsNinja/DataverseStoragePredictor) | Forecast Dataverse storage growth |
+| [**BuRolesExplorer**](https://github.com/DynamicsNinja/BuRolesExplorer) | Explore security roles across business units |
+
+### Tech
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,js,react,nextjs,nodejs,tailwind,azure,git&perline=10" alt="Tech stack" />
+</p>
+
+### Latest posts
+
 <!-- BLOG-POST-LIST:START -->
 - [Power Roles - Your security copilot](https://www.dynamicsninja.blog/2024/07/11/power-roles)
 - [Flow-tastrophe? Conquer Flows with a smile using Flow Execution History](https://www.dynamicsninja.blog/2023/10/02/flow-tastrophe-conquer-flows-with-a-smile-using-flow-execution-history)
@@ -26,16 +55,26 @@
 - [Enable in-app notifications easily](https://www.dynamicsninja.blog/2021/09/09/enable-in-app-notifications-easily)
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/dynamicsninja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dynamicsninja" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ivanficko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ivanficko" height="30" width="40" /></a>
-<a href="/https://dynamicsninja.blog/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://dynamicsninja.blog/feed/" height="30" width="40" /></a>
+➡️ More on [dynamicsninja.blog](https://dynamicsninja.blog)
+
+### Activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=DynamicsNinja&theme=github-dark-blue&hide_border=true&background=0D1117" />
+    <img src="https://streak-stats.demolab.com?user=DynamicsNinja&theme=default&hide_border=true" alt="GitHub streak" />
+  </picture>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DynamicsNinja/DynamicsNinja/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/DynamicsNinja/DynamicsNinja/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
+  </picture>
+</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dynamicsninja&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/dynamicsninja"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dynamicsninja" /></a></p><br><br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:742774&height=100&section=footer" alt="" width="100%" />
