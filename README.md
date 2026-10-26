@@ -19,7 +19,7 @@
 
 ### About
 
-Developer from Zagreb, Croatia, building on Dynamics 365 and the Power Platform for well over a decade, and a former six-time Microsoft Business Applications MVP. These days I split my time between Dataverse tooling and open-source TypeScript libraries for Garmin Connect, mostly so my own triathlon training runs on code I wrote.
+Developer from Zagreb, Croatia, building on Dynamics 365 and the Power Platform for 10+ years, and a former six-time Microsoft Business Applications MVP. These days I split my time between Dataverse tooling and open-source TypeScript libraries for Garmin Connect, mostly so my own triathlon training runs on code I wrote.
 
 ### Garmin Connect
 
@@ -71,6 +71,14 @@ Developer from Zagreb, Croatia, building on Dynamics 365 and the Power Platform 
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DynamicsNinja/DynamicsNinja/output/github-contribution-grid-snake-dark.svg" />
     <img src="https://raw.githubusercontent.com/DynamicsNinja/DynamicsNinja/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
   </picture>
+</p>
+
+### Support
+
+If my tools save you time, you can support their development:
+
+<p align="left">
+  <a href="https://www.buymeacoffee.com/dynamicsninja"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a coffee" /></a>
 </p>
 
 <p align="center">
